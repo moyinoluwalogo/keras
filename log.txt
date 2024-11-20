@@ -1,1 +1,2 @@
 0046. 🎨 style: rename variables for clarity
+0583. ✅ test: increase coverage on auth module
