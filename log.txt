@@ -4,3 +4,4 @@
 0267. 📚 docs: improve code comments in utils
 0709. ♻️ chore: bump dependencies
 0739. 🎨 style: remove trailing whitespace
+0475. 🔧 refactor: clean up auth middleware
