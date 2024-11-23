@@ -6,3 +6,4 @@
 0739. 🎨 style: remove trailing whitespace
 0475. 🔧 refactor: clean up auth middleware
 0620. ✨ feat: implement quiz timer feature
+0013. ✅ test: increase coverage on auth module
