@@ -7,3 +7,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0620. ✨ feat: implement quiz timer feature
 0013. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
