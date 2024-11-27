@@ -10,3 +10,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0633. ✨ feat: add user authentication
 0966. 📚 docs: improve code comments in utils
+0573. ✅ test: add integration test for /submit endpoint
