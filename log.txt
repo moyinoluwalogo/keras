@@ -1011,3 +1011,4 @@
 0593. 🐛 fix: correct typo in registration form
 0366. 🔧 refactor: remove redundant code blocks
 0469. 🚀 perf: lazy-load components
+0718. 🐛 fix: resolve issue with date parsing
