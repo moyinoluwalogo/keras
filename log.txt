@@ -1012,3 +1012,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0469. 🚀 perf: lazy-load components
 0718. 🐛 fix: resolve issue with date parsing
+0957. 🐛 fix: fix null pointer exception on login
