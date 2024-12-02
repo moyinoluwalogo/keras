@@ -1015,3 +1015,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0603. 🐛 fix: fix broken CSS in mobile view
 0681. ✨ feat: create admin dashboard
+0107. 🐛 fix: prevent crash on empty input
