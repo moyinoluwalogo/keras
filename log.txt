@@ -25,3 +25,4 @@
 0174. 📚 docs: clarify environment setup
 0358. 🚀 perf: reduce image load time
 0782. 📚 docs: improve code comments in utils
+0827. 🚀 perf: optimize database query for quiz results
