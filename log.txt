@@ -27,3 +27,4 @@
 0782. 📚 docs: improve code comments in utils
 0827. 🚀 perf: optimize database query for quiz results
 0386. 🚀 perf: optimize database query for quiz results
+0951. 🎨 style: rename variables for clarity
