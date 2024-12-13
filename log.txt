@@ -1043,3 +1043,4 @@
 0826. 📚 docs: clarify environment setup
 0867. 🔧 refactor: refactor quiz grading logic
 0583. ✅ test: increase coverage on auth module
+0541. 🐛 fix: correct typo in registration form
