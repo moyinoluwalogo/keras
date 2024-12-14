@@ -1044,3 +1044,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0583. ✅ test: increase coverage on auth module
 0541. 🐛 fix: correct typo in registration form
+0480. ♻️ chore: add GitHub actions badge
