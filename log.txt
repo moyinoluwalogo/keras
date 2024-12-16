@@ -37,3 +37,4 @@
 0357. ✅ test: add unit test for quiz service
 0510. 🎨 style: rename variables for clarity
 0817. 🔧 refactor: remove redundant code blocks
+0599. ✅ test: test user registration edge cases
