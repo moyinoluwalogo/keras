@@ -1048,3 +1048,4 @@
 0047. 🎨 style: rename variables for clarity
 0053. ✅ test: increase coverage on auth module
 0922. 📚 docs: write FAQ section
+0347. ♻️ chore: update .gitignore
