@@ -39,3 +39,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0599. ✅ test: test user registration edge cases
 0961. 📚 docs: add API usage examples
+0403. ✅ test: mock database connection in test suite
