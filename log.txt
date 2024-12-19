@@ -43,3 +43,4 @@
 0111. 📚 docs: update README with setup steps
 0016. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
+0571. 🔧 refactor: clean up auth middleware
