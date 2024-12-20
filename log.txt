@@ -44,3 +44,4 @@
 0016. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
 0571. 🔧 refactor: clean up auth middleware
+0114. ♻️ chore: update .gitignore
