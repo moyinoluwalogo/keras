@@ -1052,3 +1052,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0671. 🐛 fix: fix null pointer exception on login
 0056. ♻️ chore: rename env.example
+0135. ✅ test: test user registration edge cases
