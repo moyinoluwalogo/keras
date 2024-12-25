@@ -57,3 +57,4 @@
 0277. 🎨 style: standardize quote style
 0622. 🎨 style: apply consistent indentation
 0555. ✨ feat: create admin dashboard
+0207. 🐛 fix: prevent crash on empty input
