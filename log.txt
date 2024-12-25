@@ -59,3 +59,4 @@
 0555. ✨ feat: create admin dashboard
 0207. 🐛 fix: prevent crash on empty input
 0649. 📚 docs: update README with setup steps
+0341. 🚀 perf: lazy-load components
