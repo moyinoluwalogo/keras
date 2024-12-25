@@ -1056,3 +1056,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0801. ✨ feat: enable dark mode toggle
 0130. 🔧 refactor: split large controller into smaller functions
+0844. 📚 docs: update README with setup steps
