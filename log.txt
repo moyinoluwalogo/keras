@@ -62,3 +62,4 @@
 0341. 🚀 perf: lazy-load components
 0861. ♻️ chore: clean up unused files
 0723. 🔧 refactor: remove redundant code blocks
+0988. 🐛 fix: fix broken CSS in mobile view
