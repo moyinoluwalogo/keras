@@ -1063,3 +1063,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0176. 🔧 refactor: remove redundant code blocks
 0827. 🚀 perf: optimize database query for quiz results
+0400. 🐛 fix: fix null pointer exception on login
