@@ -63,3 +63,4 @@
 0861. ♻️ chore: clean up unused files
 0723. 🔧 refactor: remove redundant code blocks
 0988. 🐛 fix: fix broken CSS in mobile view
+0343. 🚀 perf: optimize database query for quiz results
