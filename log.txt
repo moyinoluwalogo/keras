@@ -1069,3 +1069,4 @@
 0510. 🎨 style: rename variables for clarity
 0283. ♻️ chore: add GitHub actions badge
 0942. ✅ test: increase coverage on auth module
+0029. 🚀 perf: lazy-load components
