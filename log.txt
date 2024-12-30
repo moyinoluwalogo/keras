@@ -1070,3 +1070,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0942. ✅ test: increase coverage on auth module
 0029. 🚀 perf: lazy-load components
+0197. 📚 docs: update README with setup steps
