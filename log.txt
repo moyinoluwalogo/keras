@@ -1073,3 +1073,4 @@
 0197. 📚 docs: update README with setup steps
 0657. 🎨 style: standardize quote style
 0896. 🚀 perf: reduce image load time
+0725. 🚀 perf: lazy-load components
