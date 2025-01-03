@@ -1078,3 +1078,4 @@
 0947. 📚 docs: write FAQ section
 0263. 📚 docs: add API usage examples
 0744. 🔧 refactor: remove redundant code blocks
+0037. 🐛 fix: correct typo in registration form
