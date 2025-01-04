@@ -77,3 +77,4 @@
 0702. ✨ feat: add user authentication
 0446. 🎨 style: apply consistent indentation
 0570. 🎨 style: apply consistent indentation
+0263. 📚 docs: add API usage examples
