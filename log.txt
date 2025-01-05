@@ -79,3 +79,4 @@
 0570. 🎨 style: apply consistent indentation
 0263. 📚 docs: add API usage examples
 0336. ✨ feat: add export to CSV option
+0819. 🚀 perf: reduce image load time
