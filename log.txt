@@ -1087,3 +1087,4 @@
 0739. 🎨 style: remove trailing whitespace
 0655. 🚀 perf: cache repeated calculations
 0964. ♻️ chore: clean up unused files
+0027. 📚 docs: clarify environment setup
