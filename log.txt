@@ -89,3 +89,4 @@
 0870. ♻️ chore: clean up unused files
 0886. ♻️ chore: clean up unused files
 0352. ✨ feat: add export to CSV option
+0688. 🚀 perf: reduce image load time
