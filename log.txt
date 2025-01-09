@@ -1093,3 +1093,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0118. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0301. 🎨 style: apply consistent indentation
