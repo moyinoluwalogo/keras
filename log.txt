@@ -1096,3 +1096,4 @@
 0301. 🎨 style: apply consistent indentation
 0600. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0776. ✅ test: add integration test for /submit endpoint
