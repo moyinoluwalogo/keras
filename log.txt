@@ -1103,3 +1103,4 @@
 0260. ✨ feat: create admin dashboard
 0574. ✨ feat: enable dark mode toggle
 0338. ♻️ chore: add GitHub actions badge
+0846. ✨ feat: implement quiz timer feature
