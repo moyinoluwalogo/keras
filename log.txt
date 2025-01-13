@@ -1101,3 +1101,4 @@
 0122. ✨ feat: support email verification
 0608. 🔧 refactor: remove redundant code blocks
 0260. ✨ feat: create admin dashboard
+0574. ✨ feat: enable dark mode toggle
