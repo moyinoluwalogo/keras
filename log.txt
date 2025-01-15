@@ -1105,3 +1105,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0846. ✨ feat: implement quiz timer feature
 0994. 🚀 perf: reduce image load time
+0059. ♻️ chore: bump dependencies
