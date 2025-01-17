@@ -1109,3 +1109,4 @@
 0481. ✅ test: add unit test for quiz service
 0738. 🐛 fix: prevent crash on empty input
 0127. 🐛 fix: fix null pointer exception on login
+0759. 🔧 refactor: organize models into subfolders
