@@ -1117,3 +1117,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0614. 🚀 perf: reduce image load time
 0767. 🔧 refactor: remove redundant code blocks
+0689. 🎨 style: reformat files with black
