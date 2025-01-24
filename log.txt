@@ -1123,3 +1123,4 @@
 0423. ✅ test: mock database connection in test suite
 0769. ✨ feat: create admin dashboard
 0715. ✨ feat: create admin dashboard
+0763. 🔧 refactor: organize models into subfolders
