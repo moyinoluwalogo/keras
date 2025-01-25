@@ -1124,3 +1124,4 @@
 0769. ✨ feat: create admin dashboard
 0715. ✨ feat: create admin dashboard
 0763. 🔧 refactor: organize models into subfolders
+0902. ✨ feat: enable dark mode toggle
