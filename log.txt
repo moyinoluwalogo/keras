@@ -1128,3 +1128,4 @@
 0962. ✨ feat: create admin dashboard
 0824. 🚀 perf: lazy-load components
 0136. 🚀 perf: lazy-load components
+0074. ♻️ chore: add GitHub actions badge
