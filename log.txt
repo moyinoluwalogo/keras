@@ -135,3 +135,4 @@
 0976. ✨ feat: implement quiz timer feature
 0266. 🔧 refactor: remove redundant code blocks
 0250. 📚 docs: update README with setup steps
+0189. 📚 docs: clarify environment setup
