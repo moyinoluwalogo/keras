@@ -1138,3 +1138,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0358. 🚀 perf: reduce image load time
 0875. ✅ test: increase coverage on auth module
+0108. 🎨 style: remove trailing whitespace
