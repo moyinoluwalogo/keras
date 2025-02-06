@@ -1142,3 +1142,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0701. 🔧 refactor: clean up auth middleware
 0171. 🐛 fix: fix broken CSS in mobile view
+0504. 📚 docs: document token refresh logic
