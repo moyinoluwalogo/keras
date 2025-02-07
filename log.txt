@@ -142,3 +142,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0253. 📚 docs: update README with setup steps
 0927. ♻️ chore: bump dependencies
+0196. ♻️ chore: bump dependencies
