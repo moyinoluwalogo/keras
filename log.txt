@@ -140,3 +140,4 @@
 0233. 🚀 perf: lazy-load components
 0085. ✨ feat: support email verification
 0246. ✅ test: add integration test for /submit endpoint
+0253. 📚 docs: update README with setup steps
