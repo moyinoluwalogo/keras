@@ -1147,3 +1147,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0149. ✨ feat: add export to CSV option
 0825. 🔧 refactor: split large controller into smaller functions
+0802. 🔧 refactor: remove redundant code blocks
