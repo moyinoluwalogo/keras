@@ -146,3 +146,4 @@
 0260. ✨ feat: create admin dashboard
 0272. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0696. 🔧 refactor: clean up auth middleware
