@@ -1156,3 +1156,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0180. ✨ feat: add export to CSV option
 0664. ✅ test: add unit test for quiz service
+0653. 🐛 fix: prevent crash on empty input
