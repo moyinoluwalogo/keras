@@ -1161,3 +1161,4 @@
 0032. 🎨 style: apply consistent indentation
 0772. 🐛 fix: fix null pointer exception on login
 0929. ✨ feat: support email verification
+0220. 🐛 fix: fix null pointer exception on login
