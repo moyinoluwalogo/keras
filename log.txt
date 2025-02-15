@@ -153,3 +153,4 @@
 0790. 📚 docs: write FAQ section
 0628. ♻️ chore: add GitHub actions badge
 0093. ✅ test: add unit test for quiz service
+0572. ✨ feat: add user authentication
