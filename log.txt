@@ -152,3 +152,4 @@
 0543. ✨ feat: support email verification
 0790. 📚 docs: write FAQ section
 0628. ♻️ chore: add GitHub actions badge
+0093. ✅ test: add unit test for quiz service
