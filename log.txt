@@ -156,3 +156,4 @@
 0572. ✨ feat: add user authentication
 0163. ✨ feat: implement quiz timer feature
 0498. ✅ test: mock database connection in test suite
+0983. 🔧 refactor: split large controller into smaller functions
