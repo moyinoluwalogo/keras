@@ -158,3 +158,4 @@
 0498. ✅ test: mock database connection in test suite
 0983. 🔧 refactor: split large controller into smaller functions
 0967. ♻️ chore: add GitHub actions badge
+0591. ♻️ chore: clean up unused files
