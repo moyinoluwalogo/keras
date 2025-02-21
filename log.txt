@@ -1178,3 +1178,4 @@
 0847. ♻️ chore: clean up unused files
 0950. 🎨 style: reformat files with black
 0376. 🎨 style: apply consistent indentation
+0789. ✨ feat: create admin dashboard
