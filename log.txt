@@ -166,3 +166,4 @@
 0950. 🎨 style: reformat files with black
 0223. 🔧 refactor: remove redundant code blocks
 0629. 🔧 refactor: organize models into subfolders
+0332. 🎨 style: standardize quote style
