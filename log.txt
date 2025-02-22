@@ -1180,3 +1180,4 @@
 0376. 🎨 style: apply consistent indentation
 0789. ✨ feat: create admin dashboard
 0870. ♻️ chore: clean up unused files
+0878. 🔧 refactor: split large controller into smaller functions
