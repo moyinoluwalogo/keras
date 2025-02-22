@@ -1181,3 +1181,4 @@
 0789. ✨ feat: create admin dashboard
 0870. ♻️ chore: clean up unused files
 0878. 🔧 refactor: split large controller into smaller functions
+0887. 📚 docs: add API usage examples
