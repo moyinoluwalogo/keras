@@ -169,3 +169,4 @@
 0332. 🎨 style: standardize quote style
 0873. 🚀 perf: cache repeated calculations
 0145. 📚 docs: improve code comments in utils
+0687. 🎨 style: remove trailing whitespace
