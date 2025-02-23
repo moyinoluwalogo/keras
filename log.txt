@@ -172,3 +172,4 @@
 0687. 🎨 style: remove trailing whitespace
 0459. 🔧 refactor: organize models into subfolders
 0923. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
