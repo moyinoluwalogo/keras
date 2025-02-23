@@ -171,3 +171,4 @@
 0145. 📚 docs: improve code comments in utils
 0687. 🎨 style: remove trailing whitespace
 0459. 🔧 refactor: organize models into subfolders
+0923. ✨ feat: support email verification
