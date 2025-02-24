@@ -1184,3 +1184,4 @@
 0887. 📚 docs: add API usage examples
 0710. 🐛 fix: fix broken CSS in mobile view
 0696. 🔧 refactor: clean up auth middleware
+0305. ✨ feat: enable dark mode toggle
