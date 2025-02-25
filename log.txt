@@ -173,3 +173,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0923. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
+0204. 🎨 style: standardize quote style
