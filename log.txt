@@ -177,3 +177,4 @@
 0768. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
 0044. ✅ test: add unit test for quiz service
+0400. 🐛 fix: fix null pointer exception on login
