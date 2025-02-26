@@ -175,3 +175,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0204. 🎨 style: standardize quote style
 0768. 🎨 style: remove trailing whitespace
+0809. ♻️ chore: rename env.example
