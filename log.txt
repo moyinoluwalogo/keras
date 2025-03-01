@@ -1195,3 +1195,4 @@
 0381. ♻️ chore: clean up unused files
 0181. ♻️ chore: add GitHub actions badge
 0055. 📚 docs: update README with setup steps
+0531. 🐛 fix: prevent crash on empty input
