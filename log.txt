@@ -1200,3 +1200,4 @@
 0271. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
 0641. 📚 docs: write FAQ section
+0777. 📚 docs: document token refresh logic
