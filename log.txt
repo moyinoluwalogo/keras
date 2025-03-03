@@ -1201,3 +1201,4 @@
 0115. 🚀 perf: reduce image load time
 0641. 📚 docs: write FAQ section
 0777. 📚 docs: document token refresh logic
+0304. 🔧 refactor: remove redundant code blocks
