@@ -1203,3 +1203,4 @@
 0777. 📚 docs: document token refresh logic
 0304. 🔧 refactor: remove redundant code blocks
 0860. 🔧 refactor: organize models into subfolders
+0678. ✨ feat: add user authentication
