@@ -184,3 +184,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0292. 📚 docs: clarify environment setup
 0167. 🚀 perf: reduce image load time
+0844. 📚 docs: update README with setup steps
