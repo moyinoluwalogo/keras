@@ -188,3 +188,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0730. ✅ test: test user registration edge cases
 0126. 🎨 style: rename variables for clarity
+0231. 🔧 refactor: clean up auth middleware
