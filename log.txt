@@ -1209,3 +1209,4 @@
 0447. ♻️ chore: bump dependencies
 0349. ✅ test: increase coverage on auth module
 0249. ✅ test: increase coverage on auth module
+0986. 📚 docs: document token refresh logic
