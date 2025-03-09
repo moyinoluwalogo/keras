@@ -1214,3 +1214,4 @@
 0131. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
 0558. ✨ feat: enable dark mode toggle
+0378. 🐛 fix: prevent crash on empty input
