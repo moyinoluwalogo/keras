@@ -192,3 +192,4 @@
 0301. 🎨 style: apply consistent indentation
 0258. 🐛 fix: prevent crash on empty input
 0035. ✅ test: increase coverage on auth module
+0316. 🐛 fix: fix broken CSS in mobile view
