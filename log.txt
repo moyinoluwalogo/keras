@@ -1219,3 +1219,4 @@
 0786. ✨ feat: enable dark mode toggle
 0665. ♻️ chore: update .gitignore
 0495. 🔧 refactor: remove redundant code blocks
+0493. ✨ feat: add user authentication
