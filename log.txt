@@ -1225,3 +1225,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0427. ✅ test: mock database connection in test suite
 0158. 📚 docs: clarify environment setup
+0703. 🔧 refactor: clean up auth middleware
