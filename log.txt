@@ -1226,3 +1226,4 @@
 0427. ✅ test: mock database connection in test suite
 0158. 📚 docs: clarify environment setup
 0703. 🔧 refactor: clean up auth middleware
+0227. ✅ test: test user registration edge cases
