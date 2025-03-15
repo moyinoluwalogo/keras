@@ -203,3 +203,4 @@
 0406. ✨ feat: add export to CSV option
 0240. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
+0116. ✨ feat: support email verification
