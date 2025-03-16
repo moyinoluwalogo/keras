@@ -205,3 +205,4 @@
 0939. 📚 docs: update README with setup steps
 0116. ✨ feat: support email verification
 0761. ✅ test: add unit test for quiz service
+0344. ♻️ chore: add GitHub actions badge
