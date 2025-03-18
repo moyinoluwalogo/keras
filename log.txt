@@ -208,3 +208,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0003. ✅ test: increase coverage on auth module
 0536. ✨ feat: add user authentication
+0305. ✨ feat: enable dark mode toggle
