@@ -1232,3 +1232,4 @@
 0161. ✨ feat: create admin dashboard
 1000. ✅ test: increase coverage on auth module
 0815. 🔧 refactor: split large controller into smaller functions
+0377. ✨ feat: add user authentication
