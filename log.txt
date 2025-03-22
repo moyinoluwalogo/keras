@@ -1235,3 +1235,4 @@
 0377. ✨ feat: add user authentication
 0637. 🎨 style: apply consistent indentation
 0757. 🔧 refactor: remove redundant code blocks
+0393. 🚀 perf: lazy-load components
