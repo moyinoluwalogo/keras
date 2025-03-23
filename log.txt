@@ -221,3 +221,4 @@
 0354. 📚 docs: add API usage examples
 0726. ✨ feat: enable dark mode toggle
 0186. ✅ test: test user registration edge cases
+0224. 🐛 fix: fix broken CSS in mobile view
