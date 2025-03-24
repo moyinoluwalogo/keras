@@ -1239,3 +1239,4 @@
 0035. ✅ test: increase coverage on auth module
 0888. 🚀 perf: lazy-load components
 0403. ✅ test: mock database connection in test suite
+0077. ♻️ chore: rename env.example
