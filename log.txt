@@ -225,3 +225,4 @@
 0382. 📚 docs: improve code comments in utils
 0954. 🚀 perf: cache repeated calculations
 0020. ✅ test: add integration test for /submit endpoint
+0299. 🐛 fix: resolve issue with date parsing
