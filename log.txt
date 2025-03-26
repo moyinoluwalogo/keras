@@ -229,3 +229,4 @@
 0915. 🚀 perf: cache repeated calculations
 0265. 🎨 style: reformat files with black
 0617. ✨ feat: support email verification
+0894. ✅ test: add integration test for /submit endpoint
