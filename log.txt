@@ -1242,3 +1242,4 @@
 0077. ♻️ chore: rename env.example
 0157. ✅ test: mock database connection in test suite
 0584. 🚀 perf: lazy-load components
+0170. ✅ test: increase coverage on auth module
