@@ -1243,3 +1243,4 @@
 0157. ✅ test: mock database connection in test suite
 0584. 🚀 perf: lazy-load components
 0170. ✅ test: increase coverage on auth module
+0530. 🔧 refactor: refactor quiz grading logic
