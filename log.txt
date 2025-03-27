@@ -1246,3 +1246,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0443. 🎨 style: standardize quote style
 0273. 🚀 perf: reduce image load time
+0626. 🎨 style: standardize quote style
