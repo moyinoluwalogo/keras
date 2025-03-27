@@ -233,3 +233,4 @@
 0023. 📚 docs: clarify environment setup
 0700. 🎨 style: rename variables for clarity
 0015. ✨ feat: implement quiz timer feature
+0307. ✨ feat: support email verification
