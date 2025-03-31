@@ -239,3 +239,4 @@
 0777. 📚 docs: document token refresh logic
 0187. ✨ feat: support email verification
 0469. 🚀 perf: lazy-load components
+0438. ♻️ chore: bump dependencies
