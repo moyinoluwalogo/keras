@@ -1257,3 +1257,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0438. ♻️ chore: bump dependencies
 0522. 🐛 fix: handle 500 error in quiz API
+0404. 📚 docs: improve code comments in utils
