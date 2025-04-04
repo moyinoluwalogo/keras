@@ -248,3 +248,4 @@
 0793. 📚 docs: clarify environment setup
 0716. ✨ feat: implement quiz timer feature
 0989. 📚 docs: write FAQ section
+0329. 📚 docs: update README with setup steps
