@@ -1265,3 +1265,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0331. 🐛 fix: fix broken CSS in mobile view
 0863. 🐛 fix: correct typo in registration form
+0109. 🚀 perf: lazy-load components
