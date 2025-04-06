@@ -1266,3 +1266,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0863. 🐛 fix: correct typo in registration form
 0109. 🚀 perf: lazy-load components
+0916. ♻️ chore: bump dependencies
