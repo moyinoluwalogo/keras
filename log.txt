@@ -251,3 +251,4 @@
 0329. 📚 docs: update README with setup steps
 0701. 🔧 refactor: clean up auth middleware
 0347. ♻️ chore: update .gitignore
+0611. ✅ test: test user registration edge cases
