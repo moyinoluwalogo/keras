@@ -1269,3 +1269,4 @@
 0916. ♻️ chore: bump dependencies
 0930. 🎨 style: apply consistent indentation
 0322. 🔧 refactor: split large controller into smaller functions
+0539. 🔧 refactor: organize models into subfolders
