@@ -260,3 +260,4 @@
 0334. 🚀 perf: cache repeated calculations
 0929. ✨ feat: support email verification
 0363. 📚 docs: clarify environment setup
+0012. 🚀 perf: cache repeated calculations
