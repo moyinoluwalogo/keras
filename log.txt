@@ -1275,3 +1275,4 @@
 0356. 📚 docs: write FAQ section
 0910. 🎨 style: remove trailing whitespace
 0140. 🐛 fix: handle 500 error in quiz API
+0570. 🎨 style: apply consistent indentation
