@@ -1277,3 +1277,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
 0105. 🐛 fix: correct typo in registration form
+0083. 🎨 style: reformat files with black
