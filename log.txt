@@ -264,3 +264,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0914. ✅ test: test user registration edge cases
 0248. 🐛 fix: handle 500 error in quiz API
+0743. 🎨 style: apply consistent indentation
