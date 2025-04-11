@@ -1280,3 +1280,4 @@
 0083. 🎨 style: reformat files with black
 0713. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
+0513. ♻️ chore: bump dependencies
