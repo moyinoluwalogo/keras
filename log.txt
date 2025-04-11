@@ -1281,3 +1281,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
 0513. ♻️ chore: bump dependencies
+0129. 🔧 refactor: organize models into subfolders
