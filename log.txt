@@ -1282,3 +1282,4 @@
 0003. ✅ test: increase coverage on auth module
 0513. ♻️ chore: bump dependencies
 0129. 🔧 refactor: organize models into subfolders
+0955. 🔧 refactor: remove redundant code blocks
