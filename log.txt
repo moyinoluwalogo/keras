@@ -271,3 +271,4 @@
 0099. 🚀 perf: reduce image load time
 0596. ♻️ chore: update .gitignore
 0689. 🎨 style: reformat files with black
+0831. 📚 docs: clarify environment setup
