@@ -272,3 +272,4 @@
 0596. ♻️ chore: update .gitignore
 0689. 🎨 style: reformat files with black
 0831. 📚 docs: clarify environment setup
+0738. 🐛 fix: prevent crash on empty input
