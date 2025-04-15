@@ -274,3 +274,4 @@
 0831. 📚 docs: clarify environment setup
 0738. 🐛 fix: prevent crash on empty input
 0182. 🔧 refactor: remove redundant code blocks
+0312. ✨ feat: add user authentication
