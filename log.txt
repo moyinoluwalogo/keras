@@ -277,3 +277,4 @@
 0312. ✨ feat: add user authentication
 0651. ✨ feat: enable dark mode toggle
 0973. 🔧 refactor: organize models into subfolders
+0901. ✨ feat: add user authentication
