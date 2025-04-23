@@ -1296,3 +1296,4 @@
 0924. ✅ test: mock database connection in test suite
 0389. 📚 docs: improve code comments in utils
 0912. 📚 docs: document token refresh logic
+0752. ✅ test: add integration test for /submit endpoint
