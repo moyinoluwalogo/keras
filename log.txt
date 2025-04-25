@@ -298,3 +298,4 @@
 0781. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
 0947. 📚 docs: write FAQ section
+0273. 🚀 perf: reduce image load time
