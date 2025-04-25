@@ -300,3 +300,4 @@
 0947. 📚 docs: write FAQ section
 0273. 🚀 perf: reduce image load time
 0610. 🚀 perf: lazy-load components
+0206. 🐛 fix: handle 500 error in quiz API
