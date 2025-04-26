@@ -303,3 +303,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
 0348. ✅ test: test user registration edge cases
+0783. 🐛 fix: handle 500 error in quiz API
