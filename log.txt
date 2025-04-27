@@ -1303,3 +1303,4 @@
 0914. ✅ test: test user registration edge cases
 0741. 🎨 style: apply consistent indentation
 0862. ♻️ chore: bump dependencies
+0615. 🐛 fix: correct typo in registration form
