@@ -305,3 +305,4 @@
 0348. ✅ test: test user registration edge cases
 0783. 🐛 fix: handle 500 error in quiz API
 0429. ✨ feat: add user authentication
+0776. ✅ test: add integration test for /submit endpoint
