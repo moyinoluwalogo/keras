@@ -1310,3 +1310,4 @@
 0088. 📚 docs: add API usage examples
 0656. 🎨 style: apply consistent indentation
 0234. ♻️ chore: rename env.example
+0110. 🐛 fix: prevent crash on empty input
