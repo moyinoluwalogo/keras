@@ -1325,3 +1325,4 @@
 0712. 🎨 style: apply consistent indentation
 0807. 🔧 refactor: remove redundant code blocks
 0976. ✨ feat: implement quiz timer feature
+0068. 🐛 fix: fix null pointer exception on login
