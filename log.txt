@@ -324,3 +324,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0592. 📚 docs: add API usage examples
 0365. 🚀 perf: reduce image load time
+0226. 🚀 perf: lazy-load components
