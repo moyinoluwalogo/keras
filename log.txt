@@ -323,3 +323,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0322. 🔧 refactor: split large controller into smaller functions
 0592. 📚 docs: add API usage examples
+0365. 🚀 perf: reduce image load time
