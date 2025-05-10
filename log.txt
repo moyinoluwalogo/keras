@@ -329,3 +329,4 @@
 0724. ✅ test: mock database connection in test suite
 0388. 🎨 style: reformat files with black
 0934. ✨ feat: support email verification
+0895. ✨ feat: support email verification
