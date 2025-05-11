@@ -1344,3 +1344,4 @@
 0444. ✅ test: add unit test for quiz service
 0311. 🎨 style: apply consistent indentation
 0264. 🚀 perf: optimize database query for quiz results
+0617. ✨ feat: support email verification
