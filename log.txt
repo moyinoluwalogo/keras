@@ -331,3 +331,4 @@
 0934. ✨ feat: support email verification
 0895. ✨ feat: support email verification
 0853. 🔧 refactor: refactor quiz grading logic
+0552. 🐛 fix: fix null pointer exception on login
