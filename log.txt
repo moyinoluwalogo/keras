@@ -335,3 +335,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0640. ♻️ chore: bump dependencies
 0368. 🚀 perf: lazy-load components
+0792. 🎨 style: standardize quote style
