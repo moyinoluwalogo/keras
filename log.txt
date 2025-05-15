@@ -339,3 +339,4 @@
 0575. ✅ test: add unit test for quiz service
 0161. ✨ feat: create admin dashboard
 0679. ♻️ chore: bump dependencies
+0371. ✅ test: add integration test for /submit endpoint
