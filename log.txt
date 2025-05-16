@@ -1350,3 +1350,4 @@
 0658. 🎨 style: rename variables for clarity
 0634. 🎨 style: reformat files with black
 0395. 📚 docs: write FAQ section
+0281. ✨ feat: support email verification
