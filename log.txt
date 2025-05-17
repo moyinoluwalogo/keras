@@ -1352,3 +1352,4 @@
 0395. 📚 docs: write FAQ section
 0281. ✨ feat: support email verification
 0346. ✅ test: mock database connection in test suite
+0674. 🔧 refactor: split large controller into smaller functions
