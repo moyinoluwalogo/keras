@@ -1361,3 +1361,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0307. ✨ feat: support email verification
+0538. 🐛 fix: fix broken CSS in mobile view
