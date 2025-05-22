@@ -1362,3 +1362,4 @@
 0547. 📚 docs: write FAQ section
 0307. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
+0663. 🚀 perf: reduce image load time
