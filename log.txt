@@ -353,3 +353,4 @@
 0904. ✨ feat: implement quiz timer feature
 0230. ✨ feat: create admin dashboard
 0862. ♻️ chore: bump dependencies
+0823. ✨ feat: add user authentication
