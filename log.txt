@@ -1363,3 +1363,4 @@
 0307. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
 0663. 🚀 perf: reduce image load time
+0666. 🐛 fix: fix broken CSS in mobile view
