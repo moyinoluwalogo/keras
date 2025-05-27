@@ -1372,3 +1372,4 @@
 0561. 📚 docs: write FAQ section
 0662. ♻️ chore: clean up unused files
 0808. 🚀 perf: optimize database query for quiz results
+0563. 📚 docs: clarify environment setup
