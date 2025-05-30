@@ -369,3 +369,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0717. 🔧 refactor: refactor quiz grading logic
 0869. ♻️ chore: bump dependencies
+0766. 🎨 style: reformat files with black
