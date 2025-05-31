@@ -1383,3 +1383,4 @@
 0845. 🚀 perf: cache repeated calculations
 0512. 🚀 perf: reduce image load time
 0702. ✨ feat: add user authentication
+0781. 🚀 perf: reduce image load time
