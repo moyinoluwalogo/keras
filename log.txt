@@ -373,3 +373,4 @@
 0685. ✅ test: test user registration edge cases
 0985. 📚 docs: document token refresh logic
 0166. 🚀 perf: cache repeated calculations
+0594. 🎨 style: reformat files with black
