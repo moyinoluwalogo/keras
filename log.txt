@@ -375,3 +375,4 @@
 0166. 🚀 perf: cache repeated calculations
 0594. 🎨 style: reformat files with black
 0509. ♻️ chore: bump dependencies
+0165. 🎨 style: remove trailing whitespace
