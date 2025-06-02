@@ -376,3 +376,4 @@
 0594. 🎨 style: reformat files with black
 0509. ♻️ chore: bump dependencies
 0165. 🎨 style: remove trailing whitespace
+0025. 🚀 perf: optimize database query for quiz results
