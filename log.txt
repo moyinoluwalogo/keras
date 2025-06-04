@@ -1388,3 +1388,4 @@
 0883. 📚 docs: improve code comments in utils
 0967. ♻️ chore: add GitHub actions badge
 0091. ✨ feat: add user authentication
+0359. 🔧 refactor: clean up auth middleware
