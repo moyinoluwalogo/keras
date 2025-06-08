@@ -384,3 +384,4 @@
 0379. ✨ feat: support email verification
 0705. 🔧 refactor: refactor quiz grading logic
 0538. 🐛 fix: fix broken CSS in mobile view
+0192. ✨ feat: enable dark mode toggle
