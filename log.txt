@@ -1396,3 +1396,4 @@
 0486. ✨ feat: add export to CSV option
 0296. 🔧 refactor: organize models into subfolders
 0746. ♻️ chore: add GitHub actions badge
+0429. ✨ feat: add user authentication
