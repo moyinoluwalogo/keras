@@ -1395,3 +1395,4 @@
 0585. 🚀 perf: lazy-load components
 0486. ✨ feat: add export to CSV option
 0296. 🔧 refactor: organize models into subfolders
+0746. ♻️ chore: add GitHub actions badge
