@@ -397,3 +397,4 @@
 0271. ✅ test: add unit test for quiz service
 0505. ♻️ chore: add GitHub actions badge
 0242. ♻️ chore: clean up unused files
+0068. 🐛 fix: fix null pointer exception on login
