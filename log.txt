@@ -1412,3 +1412,4 @@
 0963. 🚀 perf: reduce image load time
 0374. 🎨 style: standardize quote style
 0619. ✨ feat: create admin dashboard
+0106. 🎨 style: reformat files with black
