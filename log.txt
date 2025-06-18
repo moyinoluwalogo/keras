@@ -1411,3 +1411,4 @@
 0361. ✨ feat: support email verification
 0963. 🚀 perf: reduce image load time
 0374. 🎨 style: standardize quote style
+0619. ✨ feat: create admin dashboard
