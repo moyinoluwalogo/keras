@@ -414,3 +414,4 @@
 0969. ✨ feat: create admin dashboard
 0096. 🐛 fix: prevent crash on empty input
 0683. ✅ test: mock database connection in test suite
+0210. 🎨 style: apply consistent indentation
