@@ -1418,3 +1418,4 @@
 0961. 📚 docs: add API usage examples
 0262. 🎨 style: remove trailing whitespace
 0734. ✨ feat: add export to CSV option
+0463. 🚀 perf: reduce image load time
