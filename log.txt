@@ -412,3 +412,4 @@
 0275. 🎨 style: standardize quote style
 0867. 🔧 refactor: refactor quiz grading logic
 0969. ✨ feat: create admin dashboard
+0096. 🐛 fix: prevent crash on empty input
