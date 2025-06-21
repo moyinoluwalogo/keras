@@ -1423,3 +1423,4 @@
 0196. ♻️ chore: bump dependencies
 0548. 📚 docs: write FAQ section
 0209. ✨ feat: implement quiz timer feature
+0174. 📚 docs: clarify environment setup
