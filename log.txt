@@ -1420,3 +1420,4 @@
 0734. ✨ feat: add export to CSV option
 0463. 🚀 perf: reduce image load time
 0205. 📚 docs: update README with setup steps
+0196. ♻️ chore: bump dependencies
