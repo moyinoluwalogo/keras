@@ -1421,3 +1421,4 @@
 0463. 🚀 perf: reduce image load time
 0205. 📚 docs: update README with setup steps
 0196. ♻️ chore: bump dependencies
+0548. 📚 docs: write FAQ section
