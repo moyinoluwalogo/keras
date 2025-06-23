@@ -1425,3 +1425,4 @@
 0209. ✨ feat: implement quiz timer feature
 0174. 📚 docs: clarify environment setup
 0143. ✨ feat: implement quiz timer feature
+0649. 📚 docs: update README with setup steps
