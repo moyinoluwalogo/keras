@@ -432,3 +432,4 @@
 0232. 🎨 style: apply consistent indentation
 0645. 🐛 fix: resolve issue with date parsing
 0516. ✅ test: add unit test for quiz service
+0733. 🐛 fix: fix null pointer exception on login
