@@ -433,3 +433,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0516. ✅ test: add unit test for quiz service
 0733. 🐛 fix: fix null pointer exception on login
+0603. 🐛 fix: fix broken CSS in mobile view
