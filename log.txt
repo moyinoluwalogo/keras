@@ -1433,3 +1433,4 @@
 0790. 📚 docs: write FAQ section
 0016. 🎨 style: apply consistent indentation
 0167. 🚀 perf: reduce image load time
+0923. ✨ feat: support email verification
