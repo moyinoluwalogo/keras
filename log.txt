@@ -436,3 +436,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0481. ✅ test: add unit test for quiz service
 0912. 📚 docs: document token refresh logic
+0728. 🔧 refactor: split large controller into smaller functions
