@@ -1440,3 +1440,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0241. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
+0742. 📚 docs: clarify environment setup
