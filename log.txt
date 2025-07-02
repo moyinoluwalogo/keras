@@ -1441,3 +1441,4 @@
 0241. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
 0742. 📚 docs: clarify environment setup
+0009. ✨ feat: enable dark mode toggle
