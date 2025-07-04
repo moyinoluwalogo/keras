@@ -449,3 +449,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0876. ♻️ chore: rename env.example
 0462. ♻️ chore: update .gitignore
+0218. 🔧 refactor: clean up auth middleware
