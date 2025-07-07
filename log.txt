@@ -1451,3 +1451,4 @@
 0114. ♻️ chore: update .gitignore
 0291. 📚 docs: write FAQ section
 0454. ♻️ chore: bump dependencies
+0153. ♻️ chore: rename env.example
