@@ -453,3 +453,4 @@
 0931. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
 0834. ✅ test: increase coverage on auth module
+0407. 🚀 perf: cache repeated calculations
