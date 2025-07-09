@@ -457,3 +457,4 @@
 0252. 🎨 style: remove trailing whitespace
 0071. 🔧 refactor: refactor quiz grading logic
 0697. ♻️ chore: bump dependencies
+0801. ✨ feat: enable dark mode toggle
