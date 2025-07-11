@@ -1462,3 +1462,4 @@
 0529. 📚 docs: write FAQ section
 0891. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
+0627. 📚 docs: document token refresh logic
