@@ -1469,3 +1469,4 @@
 0411. ✅ test: add unit test for quiz service
 0134. ✨ feat: implement quiz timer feature
 0987. ✨ feat: create admin dashboard
+0706. ✨ feat: support email verification
