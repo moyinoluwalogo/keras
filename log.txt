@@ -469,3 +469,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0081. 🐛 fix: fix null pointer exception on login
 0050. ✨ feat: enable dark mode toggle
+0504. 📚 docs: document token refresh logic
