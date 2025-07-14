@@ -472,3 +472,4 @@
 0504. 📚 docs: document token refresh logic
 0518. ✨ feat: support email verification
 0241. 📚 docs: add API usage examples
+0304. 🔧 refactor: remove redundant code blocks
