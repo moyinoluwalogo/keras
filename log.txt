@@ -1471,3 +1471,4 @@
 0987. ✨ feat: create admin dashboard
 0706. ✨ feat: support email verification
 0934. ✨ feat: support email verification
+0390. 🎨 style: standardize quote style
