@@ -1473,3 +1473,4 @@
 0934. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
 0990. ♻️ chore: rename env.example
+0225. 🚀 perf: reduce image load time
