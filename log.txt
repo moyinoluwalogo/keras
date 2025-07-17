@@ -481,3 +481,4 @@
 0361. ✨ feat: support email verification
 0463. 🚀 perf: reduce image load time
 0262. 🎨 style: remove trailing whitespace
+0247. 🎨 style: apply consistent indentation
