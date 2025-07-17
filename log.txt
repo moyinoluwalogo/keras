@@ -1476,3 +1476,4 @@
 0225. 🚀 perf: reduce image load time
 0150. 🎨 style: remove trailing whitespace
 0536. ✨ feat: add user authentication
+0552. 🐛 fix: fix null pointer exception on login
