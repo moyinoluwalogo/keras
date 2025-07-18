@@ -483,3 +483,4 @@
 0262. 🎨 style: remove trailing whitespace
 0247. 🎨 style: apply consistent indentation
 0282. 🔧 refactor: remove redundant code blocks
+0734. ✨ feat: add export to CSV option
