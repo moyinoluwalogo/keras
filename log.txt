@@ -1480,3 +1480,4 @@
 0372. ✨ feat: add user authentication
 0437. 📚 docs: clarify environment setup
 0675. 🔧 refactor: organize models into subfolders
+0589. 🐛 fix: fix broken CSS in mobile view
