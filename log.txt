@@ -1478,3 +1478,4 @@
 0536. ✨ feat: add user authentication
 0552. 🐛 fix: fix null pointer exception on login
 0372. ✨ feat: add user authentication
+0437. 📚 docs: clarify environment setup
