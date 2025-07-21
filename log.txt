@@ -1486,3 +1486,4 @@
 0659. 📚 docs: add API usage examples
 0893. 🐛 fix: handle 500 error in quiz API
 0448. 🐛 fix: correct typo in registration form
+0036. 🔧 refactor: clean up auth middleware
