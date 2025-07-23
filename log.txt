@@ -1490,3 +1490,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0155. ✨ feat: create admin dashboard
 0997. ✅ test: increase coverage on auth module
+0436. ✅ test: add integration test for /submit endpoint
