@@ -492,3 +492,4 @@
 0056. ♻️ chore: rename env.example
 0671. 🐛 fix: fix null pointer exception on login
 0414. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
