@@ -497,3 +497,4 @@
 0394. 🚀 perf: lazy-load components
 0102. ✨ feat: support email verification
 0079. 🐛 fix: correct typo in registration form
+0632. 🎨 style: remove trailing whitespace
