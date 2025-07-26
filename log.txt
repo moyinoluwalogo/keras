@@ -1493,3 +1493,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0446. 🎨 style: apply consistent indentation
 0202. 🔧 refactor: refactor quiz grading logic
+0610. 🚀 perf: lazy-load components
