@@ -1495,3 +1495,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0610. 🚀 perf: lazy-load components
 0954. 🚀 perf: cache repeated calculations
+0747. 🔧 refactor: clean up auth middleware
