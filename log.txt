@@ -513,3 +513,4 @@
 0756. ✨ feat: support email verification
 0090. ✅ test: increase coverage on auth module
 0283. ♻️ chore: add GitHub actions badge
+0714. 📚 docs: improve code comments in utils
