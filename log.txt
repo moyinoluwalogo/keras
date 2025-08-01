@@ -515,3 +515,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0714. 📚 docs: improve code comments in utils
 0466. 🚀 perf: optimize database query for quiz results
+0294. 🐛 fix: prevent crash on empty input
