@@ -1506,3 +1506,4 @@
 0042. 📚 docs: document token refresh logic
 0811. 🎨 style: reformat files with black
 0022. 📚 docs: document token refresh logic
+0756. ✨ feat: support email verification
