@@ -1508,3 +1508,4 @@
 0022. 📚 docs: document token refresh logic
 0756. ✨ feat: support email verification
 0008. 🚀 perf: reduce image load time
+0505. ♻️ chore: add GitHub actions badge
