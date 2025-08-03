@@ -522,3 +522,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0877. 🚀 perf: optimize database query for quiz results
 0180. ✨ feat: add export to CSV option
+0919. 🚀 perf: optimize database query for quiz results
