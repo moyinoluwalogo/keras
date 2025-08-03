@@ -1510,3 +1510,4 @@
 0008. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
 0099. 🚀 perf: reduce image load time
+0760. 🐛 fix: resolve issue with date parsing
