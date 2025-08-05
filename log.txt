@@ -1512,3 +1512,4 @@
 0099. 🚀 perf: reduce image load time
 0760. 🐛 fix: resolve issue with date parsing
 0611. ✅ test: test user registration edge cases
+0581. ✅ test: add integration test for /submit endpoint
