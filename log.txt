@@ -527,3 +527,4 @@
 0911. ✅ test: increase coverage on auth module
 0770. ♻️ chore: rename env.example
 0835. 🐛 fix: prevent crash on empty input
+0749. ✨ feat: support email verification
