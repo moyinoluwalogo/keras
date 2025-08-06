@@ -1513,3 +1513,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0611. ✅ test: test user registration edge cases
 0581. ✅ test: add integration test for /submit endpoint
+0050. ✨ feat: enable dark mode toggle
