@@ -529,3 +529,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0749. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
+0875. ✅ test: increase coverage on auth module
