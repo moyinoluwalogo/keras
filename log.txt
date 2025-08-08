@@ -530,3 +530,4 @@
 0749. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
 0875. ✅ test: increase coverage on auth module
+0101. 📚 docs: clarify environment setup
