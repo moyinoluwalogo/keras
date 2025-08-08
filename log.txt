@@ -531,3 +531,4 @@
 0291. 📚 docs: write FAQ section
 0875. ✅ test: increase coverage on auth module
 0101. 📚 docs: clarify environment setup
+0217. 🚀 perf: reduce image load time
