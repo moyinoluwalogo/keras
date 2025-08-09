@@ -532,3 +532,4 @@
 0875. ✅ test: increase coverage on auth module
 0101. 📚 docs: clarify environment setup
 0217. 🚀 perf: reduce image load time
+0410. 🎨 style: reformat files with black
