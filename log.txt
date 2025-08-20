@@ -547,3 +547,4 @@
 0943. 🎨 style: rename variables for clarity
 0715. ✨ feat: create admin dashboard
 0059. ♻️ chore: bump dependencies
+0339. 📚 docs: update README with setup steps
