@@ -552,3 +552,4 @@
 0725. 🚀 perf: lazy-load components
 0840. 🔧 refactor: refactor quiz grading logic
 0251. ♻️ chore: update .gitignore
+0526. ✨ feat: add user authentication
