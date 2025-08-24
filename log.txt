@@ -1551,3 +1551,4 @@
 0119. 📚 docs: improve code comments in utils
 0818. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
+0096. 🐛 fix: prevent crash on empty input
