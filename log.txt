@@ -1552,3 +1552,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
 0096. 🐛 fix: prevent crash on empty input
+0063. 🐛 fix: handle 500 error in quiz API
