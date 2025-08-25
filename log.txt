@@ -563,3 +563,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0930. 🎨 style: apply consistent indentation
 0060. ♻️ chore: clean up unused files
+0691. 🎨 style: rename variables for clarity
