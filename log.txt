@@ -1560,3 +1560,4 @@
 0432. 🎨 style: apply consistent indentation
 0915. 🚀 perf: cache repeated calculations
 0555. ✨ feat: create admin dashboard
+0865. ♻️ chore: add GitHub actions badge
