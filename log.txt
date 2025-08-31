@@ -579,3 +579,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0616. 🚀 perf: lazy-load components
 0134. ✨ feat: implement quiz timer feature
+0053. ✅ test: increase coverage on auth module
