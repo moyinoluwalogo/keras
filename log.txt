@@ -582,3 +582,4 @@
 0053. ✅ test: increase coverage on auth module
 0848. 📚 docs: update README with setup steps
 0897. 🐛 fix: prevent crash on empty input
+0763. 🔧 refactor: organize models into subfolders
