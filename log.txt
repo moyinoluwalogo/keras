@@ -1576,3 +1576,4 @@
 0622. 🎨 style: apply consistent indentation
 0232. 🎨 style: apply consistent indentation
 0598. 🔧 refactor: remove redundant code blocks
+0971. 🎨 style: standardize quote style
