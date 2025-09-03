@@ -1577,3 +1577,4 @@
 0232. 🎨 style: apply consistent indentation
 0598. 🔧 refactor: remove redundant code blocks
 0971. 🎨 style: standardize quote style
+0430. 🐛 fix: fix null pointer exception on login
