@@ -1580,3 +1580,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0425. 🔧 refactor: refactor quiz grading logic
 0478. 🐛 fix: resolve issue with date parsing
+0630. 🚀 perf: lazy-load components
