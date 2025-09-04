@@ -586,3 +586,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0545. 🎨 style: standardize quote style
 0055. 📚 docs: update README with setup steps
+0500. ✅ test: add integration test for /submit endpoint
