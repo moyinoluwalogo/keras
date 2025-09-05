@@ -589,3 +589,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0493. ✨ feat: add user authentication
 0872. 🎨 style: rename variables for clarity
+0415. 🐛 fix: handle 500 error in quiz API
