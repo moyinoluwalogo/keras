@@ -595,3 +595,4 @@
 0994. 🚀 perf: reduce image load time
 0452. ✨ feat: implement quiz timer feature
 0796. 🔧 refactor: refactor quiz grading logic
+0544. 🔧 refactor: organize models into subfolders
