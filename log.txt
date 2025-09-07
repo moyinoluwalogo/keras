@@ -1584,3 +1584,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0708. ✅ test: add integration test for /submit endpoint
 0217. 🚀 perf: reduce image load time
+0956. 📚 docs: clarify environment setup
