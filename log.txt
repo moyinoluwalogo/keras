@@ -597,3 +597,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0544. 🔧 refactor: organize models into subfolders
 0587. 🔧 refactor: remove redundant code blocks
+0527. 🎨 style: remove trailing whitespace
