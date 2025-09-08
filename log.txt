@@ -1589,3 +1589,4 @@
 0079. 🐛 fix: correct typo in registration form
 0514. 🐛 fix: fix broken CSS in mobile view
 0903. ✅ test: mock database connection in test suite
+0475. 🔧 refactor: clean up auth middleware
