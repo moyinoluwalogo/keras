@@ -1590,3 +1590,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0903. ✅ test: mock database connection in test suite
 0475. 🔧 refactor: clean up auth middleware
+0607. 🐛 fix: prevent crash on empty input
