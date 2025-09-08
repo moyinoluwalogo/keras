@@ -599,3 +599,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
 0778. 📚 docs: write FAQ section
+0900. 🐛 fix: handle 500 error in quiz API
