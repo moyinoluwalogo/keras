@@ -1586,3 +1586,4 @@
 0217. 🚀 perf: reduce image load time
 0956. 📚 docs: clarify environment setup
 0843. 📚 docs: document token refresh logic
+0079. 🐛 fix: correct typo in registration form
