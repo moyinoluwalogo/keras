@@ -1595,3 +1595,4 @@
 0216. 🎨 style: rename variables for clarity
 0624. ✅ test: add unit test for quiz service
 0204. 🎨 style: standardize quote style
+0456. 🚀 perf: optimize database query for quiz results
