@@ -608,3 +608,4 @@
 0576. ♻️ chore: update .gitignore
 0627. 📚 docs: document token refresh logic
 0815. 🔧 refactor: split large controller into smaller functions
+0537. 🔧 refactor: remove redundant code blocks
