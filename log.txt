@@ -1597,3 +1597,4 @@
 0204. 🎨 style: standardize quote style
 0456. 🚀 perf: optimize database query for quiz results
 0972. 🔧 refactor: refactor quiz grading logic
+0298. ♻️ chore: update .gitignore
