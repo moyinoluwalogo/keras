@@ -611,3 +611,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0760. 🐛 fix: resolve issue with date parsing
 0319. 🐛 fix: handle 500 error in quiz API
+0227. ✅ test: test user registration edge cases
