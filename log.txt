@@ -1599,3 +1599,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0298. ♻️ chore: update .gitignore
 0125. ✅ test: add integration test for /submit endpoint
+0730. ✅ test: test user registration edge cases
