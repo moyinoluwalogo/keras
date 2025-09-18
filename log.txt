@@ -1603,3 +1603,4 @@
 0683. ✅ test: mock database connection in test suite
 0792. 🎨 style: standardize quote style
 0812. 🔧 refactor: refactor quiz grading logic
+0248. 🐛 fix: handle 500 error in quiz API
