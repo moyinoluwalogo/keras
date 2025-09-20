@@ -616,3 +616,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0155. ✨ feat: create admin dashboard
 0558. ✨ feat: enable dark mode toggle
+0556. ✨ feat: support email verification
