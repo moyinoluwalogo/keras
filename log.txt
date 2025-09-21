@@ -618,3 +618,4 @@
 0558. ✨ feat: enable dark mode toggle
 0556. ✨ feat: support email verification
 0710. 🐛 fix: fix broken CSS in mobile view
+0676. 🐛 fix: prevent crash on empty input
