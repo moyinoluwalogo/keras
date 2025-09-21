@@ -1607,3 +1607,4 @@
 0768. 🎨 style: remove trailing whitespace
 0577. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
+0949. 📚 docs: write FAQ section
