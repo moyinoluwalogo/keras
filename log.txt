@@ -620,3 +620,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0676. 🐛 fix: prevent crash on empty input
 0009. ✨ feat: enable dark mode toggle
+0118. 🚀 perf: reduce image load time
