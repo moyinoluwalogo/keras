@@ -1612,3 +1612,4 @@
 0586. 🎨 style: remove trailing whitespace
 0898. 🐛 fix: fix broken CSS in mobile view
 0679. ♻️ chore: bump dependencies
+0885. ♻️ chore: update .gitignore
