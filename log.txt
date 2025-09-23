@@ -1614,3 +1614,4 @@
 0679. ♻️ chore: bump dependencies
 0885. ♻️ chore: update .gitignore
 0705. 🔧 refactor: refactor quiz grading logic
+0379. ✨ feat: support email verification
