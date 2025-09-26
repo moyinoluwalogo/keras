@@ -629,3 +629,4 @@
 0249. ✅ test: increase coverage on auth module
 0353. ♻️ chore: rename env.example
 0838. 🎨 style: standardize quote style
+0131. 📚 docs: write FAQ section
