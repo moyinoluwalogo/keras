@@ -627,3 +627,4 @@
 0449. ✅ test: add unit test for quiz service
 0554. 📚 docs: improve code comments in utils
 0249. ✅ test: increase coverage on auth module
+0353. ♻️ chore: rename env.example
