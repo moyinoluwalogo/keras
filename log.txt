@@ -628,3 +628,4 @@
 0554. 📚 docs: improve code comments in utils
 0249. ✅ test: increase coverage on auth module
 0353. ♻️ chore: rename env.example
+0838. 🎨 style: standardize quote style
