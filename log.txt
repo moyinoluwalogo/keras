@@ -1621,3 +1621,4 @@
 0591. ♻️ chore: clean up unused files
 0733. 🐛 fix: fix null pointer exception on login
 0945. ♻️ chore: add GitHub actions badge
+0909. 🔧 refactor: organize models into subfolders
