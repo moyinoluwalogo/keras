@@ -631,3 +631,4 @@
 0838. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
 0034. 📚 docs: improve code comments in utils
+0125. ✅ test: add integration test for /submit endpoint
