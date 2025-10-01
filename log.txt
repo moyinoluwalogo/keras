@@ -636,3 +636,4 @@
 0270. ♻️ chore: rename env.example
 0682. ♻️ chore: rename env.example
 0451. ✨ feat: support email verification
+0600. 🐛 fix: prevent crash on empty input
