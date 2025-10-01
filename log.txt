@@ -1626,3 +1626,4 @@
 0100. ♻️ chore: update .gitignore
 0587. 🔧 refactor: remove redundant code blocks
 0415. 🐛 fix: handle 500 error in quiz API
+0511. 🐛 fix: fix broken CSS in mobile view
