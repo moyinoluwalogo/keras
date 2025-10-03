@@ -638,3 +638,4 @@
 0451. ✨ feat: support email verification
 0600. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
+0297. 🎨 style: remove trailing whitespace
