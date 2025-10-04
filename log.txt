@@ -1632,3 +1632,4 @@
 0113. ✨ feat: add user authentication
 0830. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
+0412. ✅ test: increase coverage on auth module
