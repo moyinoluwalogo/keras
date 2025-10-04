@@ -640,3 +640,4 @@
 0146. 🎨 style: apply consistent indentation
 0297. 🎨 style: remove trailing whitespace
 0390. 🎨 style: standardize quote style
+0439. 🐛 fix: correct typo in registration form
