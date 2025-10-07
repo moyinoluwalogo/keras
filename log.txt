@@ -645,3 +645,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0742. 📚 docs: clarify environment setup
 0858. ♻️ chore: clean up unused files
+0239. 🎨 style: standardize quote style
