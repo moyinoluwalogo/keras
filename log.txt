@@ -1639,3 +1639,4 @@
 0605. ✨ feat: support email verification
 0823. ✨ feat: add user authentication
 0152. ✨ feat: add user authentication
+0120. ✅ test: add integration test for /submit endpoint
