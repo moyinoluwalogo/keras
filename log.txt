@@ -1647,3 +1647,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0788. 📚 docs: add API usage examples
 0707. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
