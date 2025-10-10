@@ -647,3 +647,4 @@
 0858. ♻️ chore: clean up unused files
 0239. 🎨 style: standardize quote style
 0540. ♻️ chore: add GitHub actions badge
+0170. ✅ test: increase coverage on auth module
