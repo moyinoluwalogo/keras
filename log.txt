@@ -651,3 +651,4 @@
 0369. 🎨 style: standardize quote style
 0990. ♻️ chore: rename env.example
 0483. 📚 docs: update README with setup steps
+0965. 🎨 style: reformat files with black
