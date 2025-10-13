@@ -658,3 +658,4 @@
 0619. ✨ feat: create admin dashboard
 0665. ♻️ chore: update .gitignore
 0551. 📚 docs: write FAQ section
+0300. ✨ feat: add export to CSV option
