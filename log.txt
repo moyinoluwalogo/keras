@@ -1657,3 +1657,4 @@
 0868. ✅ test: add unit test for quiz service
 0420. 🚀 perf: reduce image load time
 0650. ✅ test: add unit test for quiz service
+0834. ✅ test: increase coverage on auth module
