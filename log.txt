@@ -661,3 +661,4 @@
 0300. ✨ feat: add export to CSV option
 0308. 🚀 perf: reduce image load time
 0130. 🔧 refactor: split large controller into smaller functions
+0971. 🎨 style: standardize quote style
