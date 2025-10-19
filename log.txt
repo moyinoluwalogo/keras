@@ -1664,3 +1664,4 @@
 0221. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
 0295. 🎨 style: remove trailing whitespace
+0418. ✅ test: mock database connection in test suite
