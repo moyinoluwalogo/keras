@@ -671,3 +671,4 @@
 0788. 📚 docs: add API usage examples
 0946. ✅ test: add unit test for quiz service
 0647. 🐛 fix: prevent crash on empty input
+0706. ✨ feat: support email verification
