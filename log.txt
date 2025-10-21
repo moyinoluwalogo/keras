@@ -670,3 +670,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0788. 📚 docs: add API usage examples
 0946. ✅ test: add unit test for quiz service
+0647. 🐛 fix: prevent crash on empty input
