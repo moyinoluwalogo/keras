@@ -674,3 +674,4 @@
 0706. ✨ feat: support email verification
 0559. 🔧 refactor: split large controller into smaller functions
 0553. 🐛 fix: correct typo in registration form
+0549. ✨ feat: enable dark mode toggle
