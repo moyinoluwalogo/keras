@@ -1683,3 +1683,4 @@
 0699. 🎨 style: standardize quote style
 0101. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
+0629. 🔧 refactor: organize models into subfolders
