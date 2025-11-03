@@ -695,3 +695,4 @@
 0142. ✨ feat: implement quiz timer feature
 0935. 📚 docs: update README with setup steps
 0523. ♻️ chore: bump dependencies
+0825. 🔧 refactor: split large controller into smaller functions
