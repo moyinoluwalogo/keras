@@ -1689,3 +1689,4 @@
 0960. ✅ test: increase coverage on auth module
 0796. 🔧 refactor: refactor quiz grading logic
 0278. 🔧 refactor: clean up auth middleware
+0578. ✅ test: add integration test for /submit endpoint
