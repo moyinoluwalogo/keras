@@ -706,3 +706,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0338. ♻️ chore: add GitHub actions badge
 0464. 🎨 style: remove trailing whitespace
+0485. 📚 docs: update README with setup steps
