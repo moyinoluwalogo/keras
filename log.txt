@@ -1698,3 +1698,4 @@
 0575. ✅ test: add unit test for quiz service
 0901. ✨ feat: add user authentication
 0697. ♻️ chore: bump dependencies
+0193. 🚀 perf: optimize database query for quiz results
