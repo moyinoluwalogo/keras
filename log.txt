@@ -1715,3 +1715,4 @@
 0995. ✅ test: mock database connection in test suite
 0078. ♻️ chore: update .gitignore
 0797. 📚 docs: add API usage examples
+0793. 📚 docs: clarify environment setup
