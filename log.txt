@@ -719,3 +719,4 @@
 1000. ✅ test: increase coverage on auth module
 0860. 🔧 refactor: organize models into subfolders
 0582. ✨ feat: add export to CSV option
+0393. 🚀 perf: lazy-load components
