@@ -722,3 +722,4 @@
 0393. 🚀 perf: lazy-load components
 0663. 🚀 perf: reduce image load time
 0228. 🔧 refactor: remove redundant code blocks
+0764. ✨ feat: add user authentication
