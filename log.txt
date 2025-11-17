@@ -1720,3 +1720,4 @@
 0654. ✨ feat: create admin dashboard
 0267. 📚 docs: improve code comments in utils
 0680. ♻️ chore: add GitHub actions badge
+0996. ✅ test: test user registration edge cases
