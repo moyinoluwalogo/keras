@@ -1721,3 +1721,4 @@
 0267. 📚 docs: improve code comments in utils
 0680. ♻️ chore: add GitHub actions badge
 0996. ✅ test: test user registration edge cases
+0075. ✅ test: mock database connection in test suite
