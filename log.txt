@@ -723,3 +723,4 @@
 0663. 🚀 perf: reduce image load time
 0228. 🔧 refactor: remove redundant code blocks
 0764. ✨ feat: add user authentication
+0321. 🔧 refactor: organize models into subfolders
