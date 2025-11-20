@@ -1722,3 +1722,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0996. ✅ test: test user registration edge cases
 0075. ✅ test: mock database connection in test suite
+0329. 📚 docs: update README with setup steps
