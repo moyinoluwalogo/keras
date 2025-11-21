@@ -1724,3 +1724,4 @@
 0075. ✅ test: mock database connection in test suite
 0329. 📚 docs: update README with setup steps
 0856. 🐛 fix: fix null pointer exception on login
+0851. ✅ test: mock database connection in test suite
