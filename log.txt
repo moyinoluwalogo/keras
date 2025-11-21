@@ -730,3 +730,4 @@
 0432. 🎨 style: apply consistent indentation
 0128. ♻️ chore: rename env.example
 0200. 🐛 fix: handle 500 error in quiz API
+0910. 🎨 style: remove trailing whitespace
