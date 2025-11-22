@@ -732,3 +732,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0910. 🎨 style: remove trailing whitespace
 0686. 🎨 style: standardize quote style
+0421. 🔧 refactor: split large controller into smaller functions
