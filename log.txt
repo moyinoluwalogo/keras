@@ -734,3 +734,4 @@
 0686. 🎨 style: standardize quote style
 0421. 🔧 refactor: split large controller into smaller functions
 0514. 🐛 fix: fix broken CSS in mobile view
+0581. ✅ test: add integration test for /submit endpoint
