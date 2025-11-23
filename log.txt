@@ -733,3 +733,4 @@
 0910. 🎨 style: remove trailing whitespace
 0686. 🎨 style: standardize quote style
 0421. 🔧 refactor: split large controller into smaller functions
+0514. 🐛 fix: fix broken CSS in mobile view
