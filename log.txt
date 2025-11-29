@@ -1743,3 +1743,4 @@
 0601. ✨ feat: implement quiz timer feature
 0754. 🐛 fix: handle 500 error in quiz API
 0166. 🚀 perf: cache repeated calculations
+0546. 🐛 fix: fix null pointer exception on login
