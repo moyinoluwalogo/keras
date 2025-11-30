@@ -748,3 +748,4 @@
 0330. ✅ test: test user registration edge cases
 0713. 🐛 fix: handle 500 error in quiz API
 0396. 🔧 refactor: split large controller into smaller functions
+0477. 🐛 fix: fix broken CSS in mobile view
