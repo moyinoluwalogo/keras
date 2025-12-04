@@ -761,3 +761,4 @@
 0011. ✅ test: add unit test for quiz service
 0563. 📚 docs: clarify environment setup
 0027. 📚 docs: clarify environment setup
+0773. 📚 docs: document token refresh logic
