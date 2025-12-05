@@ -762,3 +762,4 @@
 0563. 📚 docs: clarify environment setup
 0027. 📚 docs: clarify environment setup
 0773. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
