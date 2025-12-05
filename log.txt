@@ -1761,3 +1761,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0473. 📚 docs: write FAQ section
 0612. ✅ test: test user registration edge cases
+0409. 🚀 perf: lazy-load components
