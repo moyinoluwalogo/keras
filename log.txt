@@ -1759,3 +1759,4 @@
 0388. 🎨 style: reformat files with black
 0911. ✅ test: increase coverage on auth module
 0835. 🐛 fix: prevent crash on empty input
+0473. 📚 docs: write FAQ section
