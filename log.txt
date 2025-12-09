@@ -776,3 +776,4 @@
 0412. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
 0642. 🚀 perf: optimize database query for quiz results
+0567. 📚 docs: add API usage examples
