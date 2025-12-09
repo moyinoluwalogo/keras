@@ -773,3 +773,4 @@
 0615. 🐛 fix: correct typo in registration form
 0084. 🐛 fix: handle 500 error in quiz API
 0590. 🐛 fix: fix null pointer exception on login
+0412. ✅ test: increase coverage on auth module
