@@ -779,3 +779,4 @@
 0567. 📚 docs: add API usage examples
 0420. 🚀 perf: reduce image load time
 0264. 🚀 perf: optimize database query for quiz results
+0521. 🎨 style: standardize quote style
