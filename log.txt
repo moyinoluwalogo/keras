@@ -788,3 +788,4 @@
 0941. 🚀 perf: cache repeated calculations
 0812. 🔧 refactor: refactor quiz grading logic
 0391. 🐛 fix: fix null pointer exception on login
+0595. ✨ feat: enable dark mode toggle
