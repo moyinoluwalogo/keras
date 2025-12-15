@@ -789,3 +789,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0391. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
+0171. 🐛 fix: fix broken CSS in mobile view
