@@ -1783,3 +1783,4 @@
 0616. 🚀 perf: lazy-load components
 0350. 🚀 perf: cache repeated calculations
 0060. ♻️ chore: clean up unused files
+0690. 🚀 perf: lazy-load components
