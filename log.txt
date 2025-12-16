@@ -791,3 +791,4 @@
 0595. ✨ feat: enable dark mode toggle
 0171. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
+0541. 🐛 fix: correct typo in registration form
