@@ -797,3 +797,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0675. 🔧 refactor: organize models into subfolders
 0561. 📚 docs: write FAQ section
+0588. 🔧 refactor: organize models into subfolders
