@@ -1798,3 +1798,4 @@
 0643. 🎨 style: apply consistent indentation
 0729. 🔧 refactor: refactor quiz grading logic
 0440. 📚 docs: update README with setup steps
+0506. 🐛 fix: handle 500 error in quiz API
