@@ -1800,3 +1800,4 @@
 0440. 📚 docs: update README with setup steps
 0506. 🐛 fix: handle 500 error in quiz API
 0392. 🎨 style: remove trailing whitespace
+0958. 🐛 fix: prevent crash on empty input
