@@ -807,3 +807,4 @@
 0811. 🎨 style: reformat files with black
 0337. 📚 docs: document token refresh logic
 0028. 🎨 style: standardize quote style
+0492. 🎨 style: remove trailing whitespace
