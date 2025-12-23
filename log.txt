@@ -810,3 +810,4 @@
 0492. 🎨 style: remove trailing whitespace
 0480. ♻️ chore: add GitHub actions badge
 0005. ✅ test: add unit test for quiz service
+0030. 🐛 fix: fix null pointer exception on login
