@@ -1808,3 +1808,4 @@
 0165. 🎨 style: remove trailing whitespace
 0064. 📚 docs: clarify environment setup
 0189. 📚 docs: clarify environment setup
+0373. 📚 docs: document token refresh logic
