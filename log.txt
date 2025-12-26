@@ -816,3 +816,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0318. 🔧 refactor: refactor quiz grading logic
 0902. ✨ feat: enable dark mode toggle
+0520. 🐛 fix: fix null pointer exception on login
