@@ -813,3 +813,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
 0219. ✅ test: increase coverage on auth module
+0074. ♻️ chore: add GitHub actions badge
