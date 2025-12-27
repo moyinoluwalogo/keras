@@ -1811,3 +1811,4 @@
 0373. 📚 docs: document token refresh logic
 0886. ♻️ chore: clean up unused files
 0639. 🐛 fix: correct typo in registration form
+0568. 🐛 fix: handle 500 error in quiz API
