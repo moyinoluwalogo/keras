@@ -819,3 +819,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0698. 🐛 fix: handle 500 error in quiz API
 0597. 🚀 perf: cache repeated calculations
+0850. ♻️ chore: rename env.example
