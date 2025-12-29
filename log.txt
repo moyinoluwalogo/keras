@@ -1815,3 +1815,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0946. ✅ test: add unit test for quiz service
 0636. ✅ test: increase coverage on auth module
+0535. 📚 docs: write FAQ section
