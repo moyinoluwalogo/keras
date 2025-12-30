@@ -1817,3 +1817,4 @@
 0636. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
 0219. ✅ test: increase coverage on auth module
+0965. 🎨 style: reformat files with black
