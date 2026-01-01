@@ -1823,3 +1823,4 @@
 0491. 🚀 perf: lazy-load components
 0842. 🎨 style: remove trailing whitespace
 0795. 📚 docs: update README with setup steps
+0141. 📚 docs: document token refresh logic
