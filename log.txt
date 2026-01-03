@@ -1826,3 +1826,4 @@
 0141. 📚 docs: document token refresh logic
 0519. 📚 docs: document token refresh logic
 0881. 🔧 refactor: split large controller into smaller functions
+0722. 📚 docs: add API usage examples
