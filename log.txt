@@ -1829,3 +1829,4 @@
 0722. 📚 docs: add API usage examples
 0895. ✨ feat: support email verification
 0562. 🔧 refactor: clean up auth middleware
+0579. 📚 docs: clarify environment setup
