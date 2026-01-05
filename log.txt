@@ -1828,3 +1828,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0722. 📚 docs: add API usage examples
 0895. ✨ feat: support email verification
+0562. 🔧 refactor: clean up auth middleware
