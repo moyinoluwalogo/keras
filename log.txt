@@ -834,3 +834,4 @@
 0916. ♻️ chore: bump dependencies
 0225. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
+0674. 🔧 refactor: split large controller into smaller functions
