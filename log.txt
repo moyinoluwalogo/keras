@@ -1833,3 +1833,4 @@
 0474. ✅ test: add unit test for quiz service
 0941. 🚀 perf: cache repeated calculations
 0159. 🚀 perf: lazy-load components
+0476. 🚀 perf: reduce image load time
