@@ -1832,3 +1832,4 @@
 0579. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
 0941. 🚀 perf: cache repeated calculations
+0159. 🚀 perf: lazy-load components
