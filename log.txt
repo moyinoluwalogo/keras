@@ -1837,3 +1837,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0250. 📚 docs: update README with setup steps
+0894. ✅ test: add integration test for /submit endpoint
