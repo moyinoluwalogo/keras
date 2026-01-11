@@ -839,3 +839,4 @@
 0614. 🚀 perf: reduce image load time
 0746. ♻️ chore: add GitHub actions badge
 0417. 🎨 style: rename variables for clarity
+0921. 🐛 fix: correct typo in registration form
