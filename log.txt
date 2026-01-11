@@ -837,3 +837,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0975. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
+0746. ♻️ chore: add GitHub actions badge
