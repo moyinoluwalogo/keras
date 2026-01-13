@@ -843,3 +843,4 @@
 0194. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
 0653. 🐛 fix: prevent crash on empty input
+0473. 📚 docs: write FAQ section
