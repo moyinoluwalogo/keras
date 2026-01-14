@@ -1843,3 +1843,4 @@
 0872. 🎨 style: rename variables for clarity
 0044. ✅ test: add unit test for quiz service
 0021. ✨ feat: support email verification
+0804. ♻️ chore: add GitHub actions badge
