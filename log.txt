@@ -850,3 +850,4 @@
 0963. 🚀 perf: reduce image load time
 0346. ✅ test: mock database connection in test suite
 0639. 🐛 fix: correct typo in registration form
+0409. 🚀 perf: lazy-load components
