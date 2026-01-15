@@ -1845,3 +1845,4 @@
 0021. ✨ feat: support email verification
 0804. ♻️ chore: add GitHub actions badge
 0048. 📚 docs: update README with setup steps
+0850. ♻️ chore: rename env.example
