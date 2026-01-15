@@ -1846,3 +1846,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0048. 📚 docs: update README with setup steps
 0850. ♻️ chore: rename env.example
+0051. ✨ feat: enable dark mode toggle
