@@ -1849,3 +1849,4 @@
 0051. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
 0731. 🎨 style: standardize quote style
+0931. 🚀 perf: reduce image load time
