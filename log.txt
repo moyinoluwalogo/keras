@@ -855,3 +855,4 @@
 0879. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
 0140. 🐛 fix: handle 500 error in quiz API
+0882. 🚀 perf: optimize database query for quiz results
