@@ -1851,3 +1851,4 @@
 0731. 🎨 style: standardize quote style
 0931. 🚀 perf: reduce image load time
 0342. 🚀 perf: cache repeated calculations
+0116. ✨ feat: support email verification
