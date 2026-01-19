@@ -1856,3 +1856,4 @@
 0214. 📚 docs: improve code comments in utils
 0292. 📚 docs: clarify environment setup
 0011. ✅ test: add unit test for quiz service
+0544. 🔧 refactor: organize models into subfolders
