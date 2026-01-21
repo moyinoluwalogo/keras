@@ -1860,3 +1860,4 @@
 0034. 📚 docs: improve code comments in utils
 0638. 📚 docs: improve code comments in utils
 0817. 🔧 refactor: remove redundant code blocks
+0085. ✨ feat: support email verification
