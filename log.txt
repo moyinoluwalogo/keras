@@ -863,3 +863,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0087. ✨ feat: add export to CSV option
 0786. ✨ feat: enable dark mode toggle
+0320. 📚 docs: update README with setup steps
