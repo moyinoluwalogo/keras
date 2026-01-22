@@ -862,3 +862,4 @@
 0083. 🎨 style: reformat files with black
 0288. 🔧 refactor: refactor quiz grading logic
 0087. ✨ feat: add export to CSV option
+0786. ✨ feat: enable dark mode toggle
