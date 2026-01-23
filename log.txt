@@ -1864,3 +1864,4 @@
 0685. ✅ test: test user registration edge cases
 0434. 📚 docs: document token refresh logic
 0861. ♻️ chore: clean up unused files
+0200. 🐛 fix: handle 500 error in quiz API
