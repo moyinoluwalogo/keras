@@ -1863,3 +1863,4 @@
 0085. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
 0434. 📚 docs: document token refresh logic
+0861. ♻️ chore: clean up unused files
