@@ -869,3 +869,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0684. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
+0106. 🎨 style: reformat files with black
