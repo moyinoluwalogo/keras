@@ -870,3 +870,4 @@
 0684. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
 0106. 🎨 style: reformat files with black
+0878. 🔧 refactor: split large controller into smaller functions
