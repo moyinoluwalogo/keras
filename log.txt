@@ -871,3 +871,4 @@
 0290. ✅ test: test user registration edge cases
 0106. 🎨 style: reformat files with black
 0878. 🔧 refactor: split large controller into smaller functions
+0892. ✅ test: add unit test for quiz service
