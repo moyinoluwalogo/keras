@@ -872,3 +872,4 @@
 0106. 🎨 style: reformat files with black
 0878. 🔧 refactor: split large controller into smaller functions
 0892. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
