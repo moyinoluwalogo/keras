@@ -1873,3 +1873,4 @@
 0980. 🎨 style: reformat files with black
 0717. 🔧 refactor: refactor quiz grading logic
 0001. 🚀 perf: cache repeated calculations
+0968. 🎨 style: standardize quote style
