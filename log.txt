@@ -1875,3 +1875,4 @@
 0001. 🚀 perf: cache repeated calculations
 0968. 🎨 style: standardize quote style
 0375. 🐛 fix: handle 500 error in quiz API
+0464. 🎨 style: remove trailing whitespace
