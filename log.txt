@@ -1878,3 +1878,4 @@
 0464. 🎨 style: remove trailing whitespace
 0556. ✨ feat: support email verification
 0279. ✨ feat: support email verification
+0933. 📚 docs: clarify environment setup
