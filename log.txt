@@ -877,3 +877,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0256. ✅ test: mock database connection in test suite
 0017. ✅ test: mock database connection in test suite
+0532. 🔧 refactor: split large controller into smaller functions
