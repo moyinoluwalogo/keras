@@ -1882,3 +1882,4 @@
 0407. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
 0953. 🎨 style: remove trailing whitespace
+0892. ✅ test: add unit test for quiz service
