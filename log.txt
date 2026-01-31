@@ -1880,3 +1880,4 @@
 0279. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
 0407. 🚀 perf: cache repeated calculations
+0859. ✨ feat: create admin dashboard
