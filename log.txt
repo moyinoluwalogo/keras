@@ -882,3 +882,4 @@
 0113. ✨ feat: add user authentication
 0852. ✨ feat: enable dark mode toggle
 0419. 🎨 style: remove trailing whitespace
+0893. 🐛 fix: handle 500 error in quiz API
