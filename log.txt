@@ -885,3 +885,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0512. 🚀 perf: reduce image load time
 0355. 🚀 perf: optimize database query for quiz results
+0169. 📚 docs: add API usage examples
