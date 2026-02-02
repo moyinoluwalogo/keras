@@ -888,3 +888,4 @@
 0169. 📚 docs: add API usage examples
 0880. 🐛 fix: fix broken CSS in mobile view
 0364. 🐛 fix: resolve issue with date parsing
+0479. 🐛 fix: fix null pointer exception on login
