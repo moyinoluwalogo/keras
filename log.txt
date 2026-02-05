@@ -896,3 +896,4 @@
 0471. ✨ feat: support email verification
 0922. 📚 docs: write FAQ section
 0431. 🎨 style: reformat files with black
+0496. ✅ test: add integration test for /submit endpoint
