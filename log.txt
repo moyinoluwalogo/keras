@@ -900,3 +900,4 @@
 0177. 📚 docs: add API usage examples
 0936. 🔧 refactor: organize models into subfolders
 0849. 🐛 fix: correct typo in registration form
+0586. 🎨 style: remove trailing whitespace
