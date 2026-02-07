@@ -1897,3 +1897,4 @@
 0308. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
 0146. 🎨 style: apply consistent indentation
+0573. ✅ test: add integration test for /submit endpoint
