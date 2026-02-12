@@ -910,3 +910,4 @@
 0185. 📚 docs: write FAQ section
 0164. 📚 docs: document token refresh logic
 0433. 🐛 fix: prevent crash on empty input
+0486. ✨ feat: add export to CSV option
