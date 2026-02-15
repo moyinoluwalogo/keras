@@ -914,3 +914,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0513. ♻️ chore: bump dependencies
 0327. 🔧 refactor: split large controller into smaller functions
+0448. 🐛 fix: correct typo in registration form
