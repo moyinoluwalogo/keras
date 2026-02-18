@@ -924,3 +924,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0159. 🚀 perf: lazy-load components
 0699. 🎨 style: standardize quote style
+0112. ✨ feat: enable dark mode toggle
