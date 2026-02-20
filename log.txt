@@ -928,3 +928,4 @@
 0362. 📚 docs: add API usage examples
 0727. ♻️ chore: add GitHub actions badge
 0984. ♻️ chore: clean up unused files
+0695. ✨ feat: create admin dashboard
