@@ -927,3 +927,4 @@
 0112. ✨ feat: enable dark mode toggle
 0362. 📚 docs: add API usage examples
 0727. ♻️ chore: add GitHub actions badge
+0984. ♻️ chore: clean up unused files
