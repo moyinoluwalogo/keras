@@ -1926,3 +1926,4 @@
 0780. 📚 docs: add API usage examples
 0874. 🔧 refactor: split large controller into smaller functions
 0071. 🔧 refactor: refactor quiz grading logic
+0488. ♻️ chore: add GitHub actions badge
