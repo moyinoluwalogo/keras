@@ -932,3 +932,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0408. ♻️ chore: add GitHub actions badge
 0010. ✨ feat: add user authentication
+0468. 📚 docs: update README with setup steps
