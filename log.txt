@@ -1927,3 +1927,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0071. 🔧 refactor: refactor quiz grading logic
 0488. ♻️ chore: add GitHub actions badge
+0039. ✅ test: add integration test for /submit endpoint
