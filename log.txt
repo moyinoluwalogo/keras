@@ -1931,3 +1931,4 @@
 0876. ♻️ chore: rename env.example
 0839. 🎨 style: apply consistent indentation
 0794. ♻️ chore: clean up unused files
+0433. 🐛 fix: prevent crash on empty input
