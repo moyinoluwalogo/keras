@@ -949,3 +949,4 @@
 0424. ✨ feat: add user authentication
 0955. 🔧 refactor: remove redundant code blocks
 0564. 📚 docs: clarify environment setup
+0259. 🚀 perf: lazy-load components
