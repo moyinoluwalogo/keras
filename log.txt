@@ -947,3 +947,4 @@
 0996. ✅ test: test user registration edge cases
 0202. 🔧 refactor: refactor quiz grading logic
 0424. ✨ feat: add user authentication
+0955. 🔧 refactor: remove redundant code blocks
