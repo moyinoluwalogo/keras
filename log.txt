@@ -1938,3 +1938,4 @@
 0854. ♻️ chore: rename env.example
 0645. 🐛 fix: resolve issue with date parsing
 0030. 🐛 fix: fix null pointer exception on login
+0450. 🐛 fix: fix broken CSS in mobile view
