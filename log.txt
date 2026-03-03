@@ -1942,3 +1942,4 @@
 0483. 📚 docs: update README with setup steps
 0348. ✅ test: test user registration edge cases
 0582. ✨ feat: add export to CSV option
+0567. 📚 docs: add API usage examples
