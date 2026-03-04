@@ -953,3 +953,4 @@
 0669. ✨ feat: enable dark mode toggle
 0503. ♻️ chore: rename env.example
 0094. 📚 docs: document token refresh logic
+0797. 📚 docs: add API usage examples
