@@ -1949,3 +1949,4 @@
 0644. 🎨 style: apply consistent indentation
 0732. ♻️ chore: add GitHub actions badge
 0164. 📚 docs: document token refresh logic
+0040. 🔧 refactor: clean up auth middleware
