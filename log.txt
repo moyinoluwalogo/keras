@@ -963,3 +963,4 @@
 0769. ✨ feat: create admin dashboard
 0245. 🐛 fix: resolve issue with date parsing
 0484. 🐛 fix: handle 500 error in quiz API
+0712. 🎨 style: apply consistent indentation
