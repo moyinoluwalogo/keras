@@ -1958,3 +1958,4 @@
 0646. ✅ test: test user registration edge cases
 0442. 🎨 style: standardize quote style
 0212. 🎨 style: standardize quote style
+0413. ✅ test: add integration test for /submit endpoint
