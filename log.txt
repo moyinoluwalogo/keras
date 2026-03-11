@@ -969,3 +969,4 @@
 0175. 📚 docs: add API usage examples
 0138. 🎨 style: rename variables for clarity
 0680. ♻️ chore: add GitHub actions badge
+0121. ✨ feat: support email verification
