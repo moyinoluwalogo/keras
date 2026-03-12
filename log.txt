@@ -1962,3 +1962,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0005. ✅ test: add unit test for quiz service
 0523. ♻️ chore: bump dependencies
+0970. ♻️ chore: update .gitignore
