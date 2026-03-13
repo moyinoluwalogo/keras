@@ -976,3 +976,4 @@
 0008. 🚀 perf: reduce image load time
 0631. ✨ feat: create admin dashboard
 0765. ♻️ chore: clean up unused files
+0376. 🎨 style: apply consistent indentation
