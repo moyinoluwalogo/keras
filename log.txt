@@ -1972,3 +1972,4 @@
 0606. 📚 docs: improve code comments in utils
 0633. ✨ feat: add user authentication
 0462. ♻️ chore: update .gitignore
+0524. ♻️ chore: rename env.example
