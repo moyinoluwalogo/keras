@@ -984,3 +984,4 @@
 0928. 🎨 style: apply consistent indentation
 0103. 🔧 refactor: remove redundant code blocks
 0612. ✅ test: test user registration edge cases
+0667. ✨ feat: add export to CSV option
