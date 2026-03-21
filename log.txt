@@ -1979,3 +1979,4 @@
 0599. ✅ test: test user registration edge cases
 0318. 🔧 refactor: refactor quiz grading logic
 0989. 📚 docs: write FAQ section
+0936. 🔧 refactor: organize models into subfolders
