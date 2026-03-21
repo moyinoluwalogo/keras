@@ -1980,3 +1980,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0989. 📚 docs: write FAQ section
 0936. 🔧 refactor: organize models into subfolders
+0207. 🐛 fix: prevent crash on empty input
