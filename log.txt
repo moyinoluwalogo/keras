@@ -1981,3 +1981,4 @@
 0989. 📚 docs: write FAQ section
 0936. 🔧 refactor: organize models into subfolders
 0207. 🐛 fix: prevent crash on empty input
+0177. 📚 docs: add API usage examples
