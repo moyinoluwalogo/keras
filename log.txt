@@ -986,3 +986,4 @@
 0612. ✅ test: test user registration edge cases
 0667. ✨ feat: add export to CSV option
 0033. 🎨 style: apply consistent indentation
+0436. ✅ test: add integration test for /submit endpoint
