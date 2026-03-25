@@ -1989,3 +1989,4 @@
 0449. ✅ test: add unit test for quiz service
 0551. 📚 docs: write FAQ section
 0726. ✨ feat: enable dark mode toggle
+0401. 🚀 perf: reduce image load time
