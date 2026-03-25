@@ -1988,3 +1988,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0449. ✅ test: add unit test for quiz service
 0551. 📚 docs: write FAQ section
+0726. ✨ feat: enable dark mode toggle
