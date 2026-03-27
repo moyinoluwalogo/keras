@@ -1994,3 +1994,4 @@
 0982. 🚀 perf: lazy-load components
 0761. ✅ test: add unit test for quiz service
 0246. ✅ test: add integration test for /submit endpoint
+0252. 🎨 style: remove trailing whitespace
