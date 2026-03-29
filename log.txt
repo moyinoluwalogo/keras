@@ -1996,3 +1996,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0252. 🎨 style: remove trailing whitespace
 0762. 🚀 perf: lazy-load components
+0041. 🐛 fix: fix broken CSS in mobile view
